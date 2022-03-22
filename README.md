@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Alexander (@AlexFromMoscow6)
 - 🧑‍💻 I'm working as DevSecOps engineer
 - 👀 I’m interested in Linux, Databases, DevOps, DevSecOps, Python, SQL
-- 🌱 I’m currently learning Python, Kubernetes and cybersecurity tools such Prisma Cloud and Deep Security Smart Check
+- 🌱 I’m currently learning Python, Kubernetes and cybersecurity tools such as Snyk and Aqua Cloud Native Security
 - 📫 You can contact me via email - ```barhatovsasha@mail.ru```
 
 <!---
